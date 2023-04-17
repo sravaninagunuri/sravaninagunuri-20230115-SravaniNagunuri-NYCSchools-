@@ -4,6 +4,9 @@
 
 NYC School iPhone app is developed using Swift in MVVM architecture and dependancy injection with Simple UI.
 
+
+
+
 ## Features
 
 * Display sorting by school name
